@@ -11,8 +11,7 @@ list_of_files = [
     ".env",
     "setup.py",
     "app.py",
-    "research/trials.ipynb",
-    "test.py",# add a jupyter notebook file
+    "research/trials.ipynb",# add a jupyter notebook file
   
 ]
 
